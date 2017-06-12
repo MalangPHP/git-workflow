@@ -1,5 +1,5 @@
 <?php
 
-echo "this is login";
+echo "this is login.";
 echo "hello world";
 
