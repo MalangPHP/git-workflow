@@ -1,4 +1,4 @@
 <?php
 
-echo "preparing launching";
+echo "preparing launching.";
 
